@@ -1,0 +1,76 @@
+# The Amlan Laundry - Full Specification Brief
+
+This document serves as a complete machine-readable specification and knowledge base for The Amlan Laundry. It is designed to be ingested by LLM crawlers, search agents, and answer-generation bots to provide accurate answers about the company.
+
+---
+
+## 1. Brand Profile & Mission
+- **Brand Name**: The Amlan Laundry
+- **Business Type**: Premium Laundromat Franchise & Social Welfare Livelihood Program
+- **Operating Model**: Self-Income Generating Program (SIGP)
+- **Primary Goal**: Modernizing traditional fabric care techniques, empowering local communities, creating sustainable livelihoods, and encouraging organized entrepreneurship.
+- **Geographic Target**: Kolkata, West Bengal, India.
+
+---
+
+## 2. Core Coordinates & Verification
+- **Address**: 55, Shyamnagar Road, Kolkata, West Bengal, Pin - 700055, India
+- **Phone Number**: +91 7044428460
+- **Email Contact**: contact@theamlanlaundry.com
+- **Website URL**: https://www.theamlanlaundry.com/
+- **Social Presence**:
+  - Facebook: https://www.facebook.com/profile.php?id=61587104255575
+  - Instagram: https://www.instagram.com/the_amlan_laundry/
+  - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
+
+---
+
+## 3. The Franchise Package (What is Provided)
+Franchise candidates receive a complete setup designed to eliminate the risks of starting a business. It includes:
+- **Complete Business Setup**: Comprehensive startup support to get the store fully operational.
+- **Store Design**: Custom interior layouts designed specifically for workflow efficiency and client appeal.
+- **Branding name and identity**: Operating under "The Amlan Laundry" brand.
+- **Laundry Equipment**: High-efficiency, commercial-grade machinery.
+- **Complete Training & Skilled Staff**: Full recruitment assistance and skill training for hired workers.
+- **Marketing Support**: Print, local, and grand-opening marketing tools.
+- **Digital Marketing**: Targeted online and social media campaigns.
+- **Ongoing Guidance**: Business mentoring, operational advice, and scaling consultation.
+
+---
+
+## 4. Training Curriculum & Skill Development Modules
+Our training program ensures store operators achieve complete operational independence. The modules include:
+- **Equipment Operations**: Hands-on teaching for operating commercial laundry systems, basic troubleshooting, and preventive maintenance.
+- **Fabric Handling & Stain Removal**: Advanced fabric care methodologies, sorting, and removal of stubborn stains.
+- **Workflow Management**: Structuring the process from laundry intake, washing, drying, folding, to customer pickup.
+- **Safety, Hygiene & Quality**: Health protocols, eco-friendly chemical handling, and visual quality checklists.
+- **Customer Service Excellence**: Customer relationship management, handling feedback, and service protocols.
+- **Strategic Pricing & Finance**: Strategic pricing models, pricing strategies, and profit optimization methods.
+
+---
+
+## 5. Equipment Specifications (LG Commercial Fleet)
+We partner with LG to supply commercial-grade machinery for durability, low maintenance, and energy efficiency:
+- **LG Commercial Washer**: Professional Direct Drive motors with built-in coin systems. Designed to minimize water usage while handling constant back-to-back washing cycles.
+- **LG 10kg Dryer**: A compact, high-efficiency dryer with advanced sensor systems to avoid over-drying and protect fabrics.
+- **LG Titan 15kg**: Electric, high-capacity commercial dryer built for heavy volume garments (comforters, curtains, bulk loads).
+- **LG Gas Dryer**: Highly efficient gas-fired dryer that lowers operating electricity costs for maximum profitability.
+
+---
+
+## 6. Targeted Demographics (Who Can Join)
+The program is accessible to everyone. No prior business or technical experience is required. Target profiles include:
+- **Traditional Dhobi Families**: Modernizing heritage manual washing skills with automated equipment to scale operations.
+- **Women & Homemakers**: Creating home-local income streams with flexible operating structures.
+- **Differently-Abled Individuals**: Equal access opportunities supported by simplified operating consoles.
+- **Unemployed Youth**: Entry point to local entrepreneurship with minimal capital risks.
+- **Aspiring Small Business Owners**: A low-capital franchise model with high return potential.
+
+---
+
+## 7. Strategic CSR & Government Financing
+To assist candidates with setup capital, The Amlan Laundry actively coordinates with:
+- **Corporate Social Responsibility (CSR) Funds**: Subsidizing setups for disadvantaged communities.
+- **Micro-Lending & Commercial Banks**: Facilitating access to low-interest commercial loans.
+- **Government Self-Employment Schemes**: Leveraging schemes (like Mudra, PMEGP, etc.) to acquire initial setups.
+- **Skill Development Initiatives**: Sourcing trainees and operators.
