@@ -88,14 +88,14 @@ const translations = {
     },
     // Hero Section
     hero: {
-      badge: 'Premium Laundromat Franchise',
+      badge: 'Laundromat Franchise',
       title1: 'Transform Your Future.',
       title2: 'Build a Thriving Business.',
       subtitle: 'Empowering traditional dhobis, homemakers, and entrepreneurs with state-of-the-art technology and sustainable business models.',
       cta: 'Start Your Journey',
       cta2: 'Partner With Us',
       brand: 'THE AMLAN',
-      tagline: 'Premium Laundry',
+      tagline: 'Laundry Services',
       programTitle: 'Self-Income Generating Program.'
     },
     // About Section
@@ -105,17 +105,17 @@ const translations = {
       tradition: 'Tradition',
       meets: 'Meets',
       innovation: 'Innovation',
-      p1: 'Sustainable livelihoods emerge when skill meets opportunity. This principle drives The Amlan Laundry, a transformative initiative dedicated to creating stable income pathways and foster economic independence.',
-      p2: 'We unite generations of mastery in fabric care with cutting-edge laundry technology to meet the rising demand for organized, professional laundry service in India (West Bengal). Our mission is to help individuals and families establish scalable, dependable businesses that stand the test of time.',
-      p3: 'We serve a diverse community: traditional dhobis ready to modernize their craft, homemakers seeking financial independence, differently-abled individuals and ambitious entrepreneurs looking to enter the laundry industry. Through access to capital, training, and mentorship, we provide the tools and support required to build a successful laundry business.'
+      p1: 'Stable income begins when skills meet opportunities. The Amlan Laundry helps people build local businesses and achieve financial independence.',
+      p2: 'We combine years of fabric care experience with modern laundry machines. We serve customers in West Bengal and help families build simple, lasting businesses.',
+      p3: 'We support traditional laundry workers, homemakers, differently-abled individuals, and youth. We provide the equipment, training, and guidance needed to succeed.'
     },
     // Vision Section
     vision: {
       title: 'Our Vision',
-      p1: 'The Amlan Laundry is committed to strengthening local economies and empowering individuals to achieve financial independence through organized laundry entrepreneurship.',
-      p2: 'Our vision is to transform traditional laundry skills into sustainable, professional businesses that improve the quality of life and create scalable economic opportunity. We envision a future where laundry entrepreneurs drive community prosperity, delivering quality service, and create meaningful livelihood that uplift families and strengthen local economies.',
+      p1: 'We help grow local economies. We support everyday people in starting their own laundry businesses and earning a steady income.',
+      p2: 'We want to turn traditional laundry skills into steady businesses that improve lives. Our goal is to help local business owners succeed, support their families, and help their communities grow.',
       transform: 'Transform',
-      transformDesc: 'Modernizing skills into professional enterprises.',
+      transformDesc: 'Modernizing skills into sustainable enterprises.',
       create: 'Create',
       createDesc: 'Building scalable economic opportunities.',
       deliver: 'Deliver',
@@ -136,7 +136,7 @@ const translations = {
       subtitle: 'We equip our partners with state-of-the-art commercial laundry systems designed for efficiency, durability, and superior fabric care.',
       washer: {
         title: 'LG Commercial Washer',
-        desc: 'Professional Direct Drive technology with coin-operated system. Perfect for commercial laundromats with high-volume operations.',
+        desc: 'Direct Drive technology with coin-operated system. Perfect for commercial laundromats with high-volume operations.',
         smart: 'Smart Controls',
         water: 'Water Efficient',
         coin: 'Coin System'
@@ -164,7 +164,7 @@ const translations = {
       title: 'Training & Skill Development',
       subtitle: 'We provide hands-on training programs designed to ensure mastery across all aspects of commercial laundry operations.',
       module1: 'Operation, troubleshooting, routine maintenance of commercial laundry equipment.',
-      module2: 'Advanced fabric handling techniques and professional stain removal methods.',
+      module2: 'Advanced fabric handling techniques and standard stain removal methods.',
       module3: 'End-to-end workflow management for efficient daily operations.',
       module4: 'Hygiene protocols, safety compliance, and quality assurance frameworks.',
       module5: 'Customer service excellence, strategic pricing models, and business sustainability practices.',
@@ -176,7 +176,7 @@ const translations = {
       title: 'Who Can Join?',
       subtitle: 'No prior experience required',
       category1: 'Traditional dhobi families',
-      desc1: 'Modernize your traditional skills with professional equipment. Build a sustainable business for your family\'s future.',
+      desc1: 'Modernize your traditional skills with modern equipment. Build a sustainable business for your family\'s future.',
       category2: 'Women / Homemakers',
       desc2: 'Achieve financial independence. Flexible hours that fit your family responsibilities.',
       category3: 'Differently-abled individuals',
@@ -231,7 +231,7 @@ const translations = {
     // Footer
     footer: {
       rights: 'All rights reserved.',
-      tagline: 'Empowering communities through professional laundry entrepreneurship. A Self-Income Generating Program (SIGP) for West Bengal.',
+      tagline: 'Empowering communities through laundry entrepreneurship. A Self-Income Generating Program (SIGP) for West Bengal.',
       quickLinks: 'QUICK LINKS',
       contactTitle: 'CONTACT',
       locationLabel: 'Location:',
@@ -257,7 +257,7 @@ const translations = {
     },
     // Hero Section
     hero: {
-      badge: 'প্রিমিয়াম লন্ড্রি ব্যবসা ফ্র্যাঞ্চাইজি',
+      badge: 'লন্ড্রি ব্যবসা ফ্র্যাঞ্চাইজি',
       title1: 'অম্লান লন্ড্রি',
       title2: 'একটি ব্যবসা – একটি জীবন পরিবর্তন',
       subtitle: 'পশ্চিমবঙ্গ জুড়ে প্রচলিত লন্ড্রি কাজকে আধুনিক করে ভালো আয়ের ব্যবসায় পরিণত করছি।',
@@ -275,16 +275,16 @@ const translations = {
       meets: 'উদ্ভাবনের সঙ্গে',
       innovation: 'মিলিত হয়',
       p1: 'দক্ষতার সঙ্গে সুযোগের সংযোগ ঘটলে টেকসই জীবিকা গড়ে ওঠে। এই নীতিই অম্লান লন্ড্রির চালিকাশক্তি, যা স্থিতিশীল আয়ের পথ তৈরি এবং অর্থনৈতিক স্বনির্ভরতা গড়ে তোলার জন্য নিবেদিত একটি রূপান্তরমূলক উদ্যোগ।',
-      p2: 'আমরা কাপড়ের যত্নে প্রজন্মের পর প্রজন্মের দক্ষতাকে অত্যাধুনিক লন্ড্রি প্রযুক্তির সঙ্গে একত্রিত করি, যাতে ভারতে (পশ্চিমবঙ্গে) সংগঠিত ও পেশাদার লন্ড্রি পরিষেবার ক্রমবর্ধমান চাহিদা পূরণ করা যায়। আমাদের লক্ষ্য হলো ব্যক্তি ও পরিবারকে এমন স্কেলযোগ্য ও নির্ভরযোগ্য ব্যবসা প্রতিষ্ঠায় সহায়তা করা, যা সময়ের পরীক্ষায় টিকে থাকতে পারে।',
+      p2: 'আমরা কাপড়ের যত্নে প্রজন্মের পর প্রজন্মের দক্ষতাকে অত্যাধুনিক লন্ড্রি প্রযুক্তির সঙ্গে একত্রিত করি, যাতে ভারতে (পশ্চিমবঙ্গে) সংগঠিত লন্ড্রি পরিষেবার ক্রমবর্ধমান চাহিদা পূরণ করা যায়। আমাদের লক্ষ্য হলো ব্যক্তি ও পরিবারকে এমন স্কেলযোগ্য ও নির্ভরযোগ্য ব্যবসা প্রতিষ্ঠায় সহায়তা করা, যা সময়ের পরীক্ষায় টিকে থাকতে পারে।',
       p3: 'আমরা একটি বৈচিত্র্যময় সম্প্রদায়ের সেবা করি: ঐতিহ্যবাহী ধোবি পরিবার যারা তাদের দক্ষতাকে আধুনিক করতে প্রস্তুত, গৃহিণীরা যারা আর্থিক স্বনির্ভরতা খুঁজছেন, ভিন্নভাবে সক্ষম ব্যক্তিরা এবং উচ্চাকাঙ্ক্ষী উদ্যোক্তারা যারা লন্ড্রি শিল্পে প্রবেশ করতে আগ্রহী। মূলধন, প্রশিক্ষণ এবং পরামর্শদানের সুযোগের মাধ্যমে আমরা একটি সফল লন্ড্রি ব্যবসা গড়ে তোলার জন্য প্রয়োজনীয় উপকরণ ও সহায়তা প্রদান করি।'
     },
     // Vision Section
     vision: {
       title: 'আমাদের দৃষ্টি',
       p1: 'অম্লান লন্ড্রি স্থানীয় অর্থনীতিকে শক্তিশালী করা এবং সংগঠিত লন্ড্রি উদ্যোক্তত্বের মাধ্যমে ব্যক্তিদের আর্থিক স্বনির্ভরতা অর্জনে সক্ষম করে তোলার জন্য প্রতিশ্রুতিবদ্ধ।',
-      p2: 'আমাদের দৃষ্টিভঙ্গি হলো ঐতিহ্যবাহী লন্ড্রি দক্ষতাকে টেকসই, পেশাদার ব্যবসায় রূপান্তর করা, যা জীবনমান উন্নত করে এবং সম্প্রসারণযোগ্য অর্থনৈতিক সুযোগ সৃষ্টি করে। আমরা এমন একটি ভবিষ্যৎ কল্পনা করি, যেখানে লন্ড্রি উদ্যোক্তারা সম্প্রদায়ের সমৃদ্ধিকে এগিয়ে নিয়ে যাবে, মানসম্মত সেবা প্রদান করে, এবং অর্থবহ জীবিকার সুযোগ সৃষ্টি করবে, যা পরিবারকে উন্নত করবে এবং স্থানীয় অর্থনীতিকে শক্তিশালী করবে।',
+      p2: 'আমাদের দৃষ্টিভঙ্গি হলো ঐতিহ্যবাহী লন্ড্রি দক্ষতাকে টেকসই ব্যবসায় রূপান্তর করা, যা জীবনমান উন্নত করে এবং সম্প্রসারণযোগ্য অর্থনৈতিক সুযোগ সৃষ্টি করে। আমরা এমন একটি ভবিষ্যৎ কল্পনা করি, যেখানে লন্ড্রি উদ্যোক্তারা সম্প্রদায়ের সমৃদ্ধিকে এগিয়ে নিয়ে যাবে, মানসম্মত সেবা প্রদান করে, এবং অর্থবহ জীবিকার সুযোগ সৃষ্টি করবে, যা পরিবারকে উন্নত করবে এবং স্থানীয় অর্থনীতিকে শক্তিশালী করবে।',
       transform: 'রূপান্তর',
-      transformDesc: 'দক্ষতাকে আধুনিক করে পেশাদার উদ্যোগে রূপ দেওয়া।',
+      transformDesc: 'দক্ষতাকে আধুনিক করে উদ্যোগে রূপ দেওয়া।',
       create: 'সৃষ্টি',
       createDesc: 'সম্প্রসারণযোগ্য অর্থনৈতিক সুযোগ তৈরি করা।',
       deliver: 'প্রদান',
@@ -305,7 +305,7 @@ const translations = {
       subtitle: 'কার্যকারিতা, স্থায়িত্ব এবং উন্নত কাপড় রক্ষণাবেক্ষণের জন্য ডিজাইন করা আধুনিক বাণিজ্যিক লন্ড্রি সিস্টেম দিয়ে আমরা আমাদের অংশীদারদের সজ্জিত করি।',
       washer: {
         title: 'LG বাণিজ্যিক ওয়াশার',
-        desc: 'নয়লা চালিত পেশাদার ডাইরেক্ট ড্রাইভ প্রযুক্তি। উচ্চ-ভলিউম অপারেশনের বাণিজ্যিক লন্ড্রম্যাটের জন্য উপযুক্ত।',
+        desc: 'নয়লা চালিত ডাইরেক্ট ড্রাইভ প্রযুক্তি। উচ্চ-ভলিউম অপারেশনের বাণিজ্যিক লন্ড্রম্যাটের জন্য উপযুক্ত।',
         smart: 'স্মার্ট কন্ট্রোল',
         water: 'জল দক্ষ',
         coin: 'নয়লা ব্যবস্থা'
@@ -333,7 +333,7 @@ const translations = {
       title: 'প্রশিক্ষণ & দক্ষতা উন্নয়ন',
       subtitle: 'আমরা যে প্রশিক্ষণ প্রদান করি:',
       module1: 'বাণিজ্যিক লন্ড্রি যন্ত্রপাতির পরিচালনা, ত্রুটি সমাধান এবং নিয়মিত রক্ষণাবেক্ষণ।',
-      module2: 'উন্নত কাপড় পরিচালনা কৌশল এবং পেশাদার দাগ অপসারণ পদ্ধতি।',
+      module2: 'উন্নত কাপড় পরিচালনা কৌশল এবং কার্যকর দাগ অপসারণ পদ্ধতি।',
       module3: 'দৈনন্দিন কার্যক্রম দক্ষভাবে পরিচালনার জন্য শুরু থেকে শেষ পর্যন্ত কর্মপ্রবাহ ব্যবস্থাপনা।',
       module4: 'স্বাস্থ্যবিধি প্রোটোকল, নিরাপত্তা মান অনুসরণ এবং গুণমান নিশ্চিতকরণ কাঠামো।',
       module5: 'গ্রাহকসেবায় উৎকর্ষ, কৌশলগত মূল্য নির্ধারণ মডেল এবং ব্যবসার স্থায়িত্ব বজায় রাখার অনুশীলন।',
@@ -345,7 +345,7 @@ const translations = {
       title: 'কে যোগ দিতে পারে?',
       subtitle: 'পূর্ব অভিজ্ঞতা প্রয়োজন নেই',
       category1: 'ঐতিহ্যবাহী ধোবি পরিবারগুলি',
-      desc1: 'পেশাদার সরঞ্জামের সাহায্যে আপনার ঐতিহ্যবাহী দক্ষতাকে আধুনিক করে তুলুন। আপনার পরিবারের ভবিষ্যতের জন্য একটি টেকসই ব্যবসা গড়ে তুলুন।',
+      desc1: 'আধুনিক সরঞ্জামের সাহায্যে আপনার ঐতিহ্যবাহী দক্ষতাকে আধুনিক করে তুলুন। আপনার পরিবারের ভবিষ্যতের জন্য একটি টেকসই ব্যবসা গড়ে তুলুন।',
       category2: 'নারী / গৃহিণী',
       desc2: 'বাড়ি থেকেই আর্থিক স্বাধীনতা অর্জন করুন। পরিবারের দায়িত্বের জন্য উপযুক্ত নমনীয় সময়সূচী।',
       category3: 'ভিন্নভাবে সক্ষম ব্যক্তিরা',
@@ -380,27 +380,27 @@ const translations = {
     },
     // Contact Section
     contact: {
-      title: 'আমাদের সাথে যোগাযোগ করুন',
-      subtitle: 'আপনি কি আপনার ভবিষ্যত পরিবর্তনের জন্য প্রস্তুত? পরামর্শ এবং সরঞ্জাম সংক্রান্ত অনুসন্ধানের জন্য আমাদের সাথে যোগাযোগ করুন।',
-      phone: 'টেলিফোন',
-      email: 'ইমেল',
-      location: 'অবস্থান',
-      locationValue: 'কলকাতা, পশ্চিমবঙ্গ',
-      formTitle: 'বার্তা পাঠান',
-      fullName: 'পূর্ণ নাম',
-      fullNamePlaceholder: 'আপনার নাম',
-      phoneNumber: 'টেলিফোন নম্বর',
+      title: 'Contact Us',
+      subtitle: 'Ready to transform your future? Reach out to us for mentorship and equipment inquiries.',
+      phone: 'Phone',
+      email: 'Email',
+      location: 'Location',
+      locationValue: 'Kolkata, West Bengal',
+      formTitle: 'Send Message',
+      fullName: 'Full Name',
+      fullNamePlaceholder: 'John Doe',
+      phoneNumber: 'Phone Number',
       phonePlaceholder: '+91...',
-      locationLabel: 'শহর, এলাকা',
-      locationPlaceholder: 'শহর, এলাকা',
-      message: 'বার্তা',
-      messagePlaceholder: 'আপনার পরিকল্পনা সম্পর্কে আমাদের বলুন...',
-      send: 'বার্তা প্রেরণ'
+      locationLabel: 'Location',
+      locationPlaceholder: 'City, Area',
+      message: 'Message',
+      messagePlaceholder: 'Tell us about your plans...',
+      send: 'Send Message'
     },
     // Footer
     footer: {
       rights: 'সব অধিকার সংরক্ষিত।',
-      tagline: 'পেশাদার লন্ড্রি উদ্যোগের মাধ্যমে সম্প্রদায়ের ক্ষমতায়ন। পশ্চিমবঙ্গের জন্য একটি স্ব-আয় উৎপাদনকারী প্রোগ্রাম (SIGP)।',
+      tagline: 'লন্ড্রি উদ্যোগের মাধ্যমে সম্প্রদায়ের ক্ষমতায়ন। পশ্চিমবঙ্গের জন্য একটি স্ব-আয় উৎপাদনকারী প্রোগ্রাম (SIGP)।',
       quickLinks: 'কুইক লিংক',
       contactTitle: 'যোগাযোগ',
       locationLabel: 'অবস্থান:',
@@ -1002,15 +1002,15 @@ const WashingMachineIntro = ({ show, onComplete }) => {
 
         {/* Loading Text */}
         <div className="mt-16 text-center" style={{ animation: 'fade-in-intro 1s ease-out 0.5s backwards' }}>
-          <h1 className="text-6xl font-black text-white mb-4" style={{
+          <h2 className="text-6xl font-black text-white mb-4" style={{
             fontFamily: "'Montserrat', sans-serif",
             textShadow: '0 4px 20px rgba(0,0,0,0.4)',
             letterSpacing: '2px'
           }}>
             THE AMLAN
-          </h1>
+          </h2>
           <p className="text-2xl text-cyan-200 mb-6" style={{ fontFamily: "'Quicksand', sans-serif" }}>
-            Premium Laundry Experience
+            Laundry Experience
           </p>
           <div className="flex justify-center gap-3">
             <div className="w-3 h-3 bg-cyan-300 rounded-full animate-bounce shadow-lg"></div>
@@ -1679,6 +1679,9 @@ const Hero = () => {
         <a href="https://www.facebook.com/profile.php?id=61587104255575" target="_blank" rel="noopener noreferrer" className="w-8 h-8 md:w-12 md:h-12 rounded bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition-colors shadow-lg">
           <Facebook size={14} className="md:w-5 md:h-5" />
         </a>
+        <a href="https://wa.me/917044428460" target="_blank" rel="noopener noreferrer" className="w-8 h-8 md:w-12 md:h-12 rounded bg-[#25D366] text-white flex items-center justify-center hover:bg-[#20ba5a] transition-colors shadow-lg">
+          <MessageCircle size={14} className="md:w-5 md:h-5" />
+        </a>
         <a href="https://www.instagram.com/the_amlan_laundry/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 md:w-12 md:h-12 rounded bg-red-600 text-white flex items-center justify-center hover:bg-red-700 transition-colors shadow-lg">
           <Instagram size={14} className="md:w-5 md:h-5" />
         </a>
@@ -1725,7 +1728,7 @@ const Hero = () => {
               alt="LG Logo"
               className="h-20 sm:h-24 md:h-32 lg:h-40 w-auto object-contain"
               loading="eager"
-              fetchpriority="high"
+              fetchPriority="high"
               width="800"
               height="320"
             />
@@ -1834,10 +1837,10 @@ const About = () => {
               <div className="lg-washer-float relative">
                 <img
                   src="/images/LG 10 kg dryer.png"
-                  alt="LG Commercial Washing Machine - Professional Direct Drive Washer"
+                  alt="LG Commercial Washing Machine - Direct Drive Washer"
                   className="w-[600px] md:w-[500px] h-auto relative z-10"
                   loading="eager"
-                  fetchpriority="high"
+                  fetchPriority="high"
                   width="600"
                   height="800"
                   style={{
@@ -1944,9 +1947,9 @@ const WhyAmlan = () => {
             <div className="flex flex-col lg:flex-row items-center gap-12 relative z-20">
               {/* Left Side - Content */}
               <div className="flex-1 w-full lg:w-auto">
-                <h1 className="text-4xl md:text-6xl font-bold font-heading text-[#a50034] leading-tight mb-8 text-center lg:text-left" style={{ position: 'relative', zIndex: 20 }}>
+                <h2 className="text-4xl md:text-6xl font-bold font-heading text-[#a50034] leading-tight mb-8 text-center lg:text-left" style={{ position: 'relative', zIndex: 20 }}>
                   {t.whyAmlan.title}
-                </h1>
+                </h2>
 
                 {/* Icon-based List */}
                 <div className="space-y-2 flex-1">
@@ -2370,20 +2373,46 @@ const CSRSupport = () => {
 };
 
 const Contact = () => {
-  const t = translations.en;
+  const { t } = useLanguage();
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const sendEmail = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
 
+    const formData = new FormData(e.target);
+    const nameVal = formData.get('name') || formData.get('from_name') || '';
+    const emailVal = formData.get('email') || formData.get('user_email') || '';
+    const phoneVal = formData.get('phone') || formData.get('user_phone') || '';
+    const locationVal = formData.get('location') || formData.get('user_location') || '';
+    const messageVal = formData.get('message') || '';
+
     try {
-      // Send email using EmailJS
-      const result = await emailjs.sendForm(
-        'service_cs1absd',      // Service ID
-        'template_7jvwjyx',     // Template ID
-        e.target,               // Form element
-        '6Gc6hDas_DeBPKDLt'     // Public API Key
+      // Send email using EmailJS with all possible parameter variations
+      const result = await emailjs.send(
+        'service_uzyd1ec',      // Service ID
+        'template_m142zrk',     // Template ID
+        {
+          // New variables
+          name: nameVal,
+          email: emailVal,
+          phone: phoneVal,
+          location: locationVal,
+          message: messageVal,
+
+          // Old/standard variables
+          from_name: nameVal,
+          user_email: emailVal,
+          user_phone: phoneVal,
+          user_location: locationVal,
+
+          // Additional possible variations
+          from_email: emailVal,
+          phone_number: phoneVal,
+          contact_number: phoneVal,
+          location_label: locationVal
+        },
+        '0kQOXWc4hcS2hSk0q'     // Public API Key
       );
 
       console.log('EmailJS Success:', result.text);
@@ -2408,7 +2437,7 @@ const Contact = () => {
               <div className="absolute inset-0 opacity-20">
                 <img
                   src="/images/LG 10 kg dryer.png"
-                  alt="Background image showing professional laundry equipment setup"
+                  alt="Background image showing laundry equipment setup"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-br from-slate-50/90 via-slate-100/80 to-slate-50/90"></div>
@@ -2451,21 +2480,21 @@ const Contact = () => {
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label className="text-sm font-bold text-slate-700 ml-1 font-heading">{t.contact.fullName}</label>
-                    <input type="text" name="from_name" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.fullNamePlaceholder} />
+                    <input type="text" name="name" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.fullNamePlaceholder} />
                   </div>
                   <div className="space-y-2">
                     <label className="text-sm font-bold text-slate-700 ml-1 font-heading">Email Address</label>
-                    <input type="email" name="user_email" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder="your.email@example.com" />
+                    <input type="email" name="email" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder="your.email@example.com" />
                   </div>
                 </div>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label className="text-sm font-bold text-slate-700 ml-1 font-heading">{t.contact.phoneNumber}</label>
-                    <input type="tel" name="user_phone" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.phonePlaceholder} />
+                    <input type="tel" name="phone" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.phonePlaceholder} />
                   </div>
                   <div className="space-y-2">
                     <label className="text-sm font-bold text-slate-700 ml-1 font-heading">{t.contact.locationLabel}</label>
-                    <input type="text" name="user_location" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.locationPlaceholder} />
+                    <input type="text" name="location" required className="w-full px-6 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-[#A50034] focus:ring-4 focus:ring-[#A50034]/10 outline-none transition-all" placeholder={t.contact.locationPlaceholder} />
                   </div>
                 </div>
                 <div className="space-y-2">

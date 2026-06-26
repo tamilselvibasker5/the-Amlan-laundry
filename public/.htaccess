@@ -1,12 +1,25 @@
 # Bluehost-compatible .htaccess for React + PHP
 
 # Enable PHP execution using Bluehost's EA (EasyApache) handler
-# Using PHP 8.2
-AddHandler application/x-httpd-ea-php82 .php
+AddHandler application/x-httpd-ea-php74 .php
 
+# 1. ROUTING & HTTPS REDIRECTION
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+  
+  # Force WWW canonical domain
+  RewriteCond %{HTTP_HOST} !^www\. [NC]
+  RewriteRule ^(.*)$ https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+  
+  # Force HTTPS protocol
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+  
+  # Redirect direct GET requests for PHP files to homepage to prevent indexation / crawl warnings
+  RewriteCond %{REQUEST_METHOD} GET
+  RewriteCond %{REQUEST_URI} ^/+(contact|send-message|test)\.php [NC]
+  RewriteRule ^ - [R=301,L]
   
   # Don't rewrite files or directories that exist (includes PHP files)
   RewriteCond %{REQUEST_FILENAME} -f [OR]
@@ -15,4 +28,10 @@ AddHandler application/x-httpd-ea-php82 .php
   
   # Rewrite everything else to index.html for React Router
   RewriteRule ^ index.html [L]
+</IfModule>
+
+# 2. SECURITY HEADERS
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
 </IfModule>

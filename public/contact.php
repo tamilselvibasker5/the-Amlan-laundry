@@ -1,4 +1,11 @@
 <?php
+// Redirect GET requests to the homepage
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    header("HTTP/1.1 301 Moved Permanently");
+    header("Location: https://www.theamlanlaundry.com/");
+    exit;
+}
+
 // Disable error display to prevent JSON corruption
 ini_set('display_errors', 0);
 error_reporting(0);
@@ -7,6 +14,11 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 header('Access-Control-Allow-Headers: Content-Type');
+header('X-Content-Type-Options: nosniff');
+header('X-Frame-Options: SAMEORIGIN');
+header('Referrer-Policy: strict-origin-when-cross-origin');
+header('Strict-Transport-Security: max-age=31536000; includeSubDomains; preload');
+header("Content-Security-Policy: default-src 'self';");
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Get form data

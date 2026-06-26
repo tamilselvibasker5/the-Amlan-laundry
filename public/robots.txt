@@ -29,5 +29,8 @@ Allow: /
 # General Permissions
 User-agent: *
 Allow: /
+Disallow: /contact.php
+Disallow: /send-message.php
+Disallow: /test.php
 
 Sitemap: https://www.theamlanlaundry.com/sitemap.xml
