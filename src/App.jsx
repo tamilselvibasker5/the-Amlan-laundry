@@ -123,7 +123,7 @@ const translations = {
     },
     // Why Amlan Section
     whyAmlan: {
-      title: 'Why Amlan Laundry?',
+      title: 'Why The Amlan Laundry?',
       reason1: 'Social welfare-focused initiative',
       reason2: 'Low investment',
       reason3: 'Complete support',
@@ -216,7 +216,7 @@ const translations = {
       phone: 'Phone',
       email: 'Email',
       location: 'Location',
-      locationValue: 'Kolkata, West Bengal',
+      locationValue: '55, Shyamnagar Road, Kolkata, West Bengal, Pin - 700055',
       formTitle: 'Send Message',
       fullName: 'Full Name',
       fullNamePlaceholder: 'John Doe',
@@ -385,7 +385,7 @@ const translations = {
       phone: 'Phone',
       email: 'Email',
       location: 'Location',
-      locationValue: 'Kolkata, West Bengal',
+      locationValue: '55, Shyamnagar Road, Kolkata, West Bengal, Pin - 700055',
       formTitle: 'Send Message',
       fullName: 'Full Name',
       fullNamePlaceholder: 'John Doe',
