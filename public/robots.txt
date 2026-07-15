@@ -1,8 +1,19 @@
-# AI Crawler Permissions
+User-agent: *
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 User-agent: ClaudeBot
@@ -11,26 +22,7 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: Google-Extended
+User-agent: Applebot
 Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-User-agent: CohereBot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: Omgilibot
-Allow: /
-
-# General Permissions
-User-agent: *
-Allow: /
-Disallow: /contact.php
-Disallow: /send-message.php
-Disallow: /test.php
 
 Sitemap: https://www.theamlanlaundry.com/sitemap.xml

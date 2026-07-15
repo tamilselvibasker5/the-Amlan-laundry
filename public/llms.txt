@@ -1,6 +1,6 @@
 # The Amlan Laundry
 
-> A transformative, low-investment laundry franchise and Self-Income Generating Program (SIGP) in West Bengal, India.
+> A transformative, low-investment laundry business and Self-Income Generating Program (SIGP) in West Bengal, India.
 
 See also:
 - [Full Business Details & Copy Brief](/llms-full.txt) - Comprehensive structured dataset for detailed AI ingestion.
@@ -19,9 +19,9 @@ The Amlan Laundry is committed to strengthening local economies, modernizing the
   - Instagram: https://www.instagram.com/the_amlan_laundry/
   - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
 
-## Franchise Model
+## Business Model
 
-The Amlan Laundry offers a low-investment, high-return franchise setup. We provide:
+The Amlan Laundry offers a low-investment, high-return business setup. We provide:
 - Complete business setup
 - Store design
 - Branding name and identity
@@ -42,7 +42,7 @@ Our comprehensive training program covers the following modules:
 
 ## Equipment Fleet
 
-We equip our franchise partners with state-of-the-art commercial laundry systems from LG, designed for efficiency, durability, and superior fabric care:
+We equip our business partners with state-of-the-art commercial laundry systems from LG, designed for efficiency, durability, and superior fabric care:
 - **LG Commercial Washer**: Professional Direct Drive technology with a coin-operated system, optimized for high-volume operations.
 - **LG 10kg Dryer**: Compact yet powerful commercial dryer with advanced sensor technology.
 - **LG Titan 15kg**: Maximum capacity electric dryer for high-volume commercial use.

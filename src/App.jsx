@@ -8,6 +8,7 @@ import {
 import emailjs from '@emailjs/browser';
 import Card from './components/Card';
 import TrainingCard from './components/TrainingCard';
+import SEO from './components/SEO';
 
 /**
  * ------------------------------------------------------------------
@@ -80,7 +81,7 @@ const translations = {
       equipment: 'Equipment',
       training: 'Training',
       whoCanJoin: 'Who Can Join',
-      franchise: 'Franchise',
+      business: 'Business',
       csrSupport: 'CSR & Support',
       contact: 'Contact',
       language: 'বাংলা',
@@ -88,7 +89,7 @@ const translations = {
     },
     // Hero Section
     hero: {
-      badge: 'Laundromat Franchise',
+      badge: 'Laundromat Business',
       title1: 'Transform Your Future.',
       title2: 'Build a Thriving Business.',
       subtitle: 'Empowering traditional dhobis, homemakers, and entrepreneurs with state-of-the-art technology and sustainable business models.',
@@ -186,9 +187,9 @@ const translations = {
       category5: 'Aspiring small business owners',
       desc5: 'Low investment, high returns opportunity. Complete business setup with ongoing mentorship and support.'
     },
-    // Franchise Section
-    franchise: {
-      title: 'Franchise',
+    // Business Section
+    business: {
+      title: 'Business',
       subtitle: 'What we provide:',
       item1: 'Complete business setup',
       item2: 'Store design',
@@ -249,7 +250,7 @@ const translations = {
       equipment: 'সরঞ্জাম',
       training: 'প্রশিক্ষণ',
       whoCanJoin: 'কে যোগ দিতে পারে',
-      franchise: 'ফ্র্যাঞ্চাইজি',
+      business: 'ফ্র্যাঞ্চাইজি',
       csrSupport: 'CSR ও সহায়তা',
       contact: 'যোগাযোগ',
       language: 'ENG',
@@ -355,8 +356,8 @@ const translations = {
       category5: 'উদ্যোগী ক্ষুদ্র ব্যবসার মালিকরা',
       desc5: 'কম বিনিয়োগে, বেশি লাভের সুযোগ। সম্পূর্ণ ব্যবসা স্থাপন, সঙ্গে ধারাবাহিক পরামর্শ ও সহায়তা।'
     },
-    // Franchise Section
-    franchise: {
+    // Business Section
+    business: {
       title: 'ফ্র্যাঞ্চাইজি',
       subtitle: 'আমরা যা সরবরাহ করি:',
       item1: 'সম্পূর্ণ ব্যবসা স্থাপন',
@@ -1242,7 +1243,7 @@ const Navbar = () => {
   // Detect active section based on scroll position
   useEffect(() => {
     const handleScrollSpy = () => {
-      const sections = ['home', 'about', 'vision', 'why-amlan', 'equipment', 'training', 'who-can-join', 'franchise', 'csr-support', 'contact'];
+      const sections = ['home', 'about', 'vision', 'why-amlan', 'equipment', 'training', 'who-can-join', 'business', 'csr-support', 'contact'];
       const scrollPosition = window.scrollY + 200; // Offset for better detection
 
       for (const section of sections) {
@@ -1531,7 +1532,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between gap-2 py-0.5 md:py-1">
             {/* Logo Section */}
             <a href="#home" className="flex items-center gap-1 group flex-shrink-0">
-              <img
+              <img loading="lazy"
                 src="/images/logo.png"
                 alt="The Amlan Laundry"
                 className="h-12 sm:h-14 md:h-20 w-auto object-contain"
@@ -1583,7 +1584,7 @@ const Navbar = () => {
           </button>
 
           {/* Logo - Right */}
-          <img
+          <img loading="lazy"
             src="/images/logo.png"
             alt="The Amlan Laundry"
             className="h-16 w-auto object-contain"
@@ -1605,7 +1606,7 @@ const Navbar = () => {
             <div className="flex flex-col h-full">
               {/* Menu Header */}
               <div className="flex items-center justify-between p-4 border-b border-gray-200">
-                <img
+                <img loading="lazy"
                   src="/images/logo.png"
                   alt="The Amlan Laundry"
                   className="h-16 w-auto object-contain"
@@ -1693,7 +1694,7 @@ const Hero = () => {
       <div className="relative z-20 max-w-7xl mx-auto px-3 sm:px-4 md:px-6 lg:px-8 text-center pointer-events-none" style={{ marginTop: '0rem' }}>
         <RevealOnScroll delay={100}>
           <div className="mb-6 md:mb-8 flex justify-center" style={{ marginTop: '1.5rem' }}>
-            <img
+            <img loading="lazy"
               src="/images/The amlan logo transparent.png"
               alt="The Amlan Logo"
               className="h-24 sm:h-32 md:h-40 lg:h-48 w-auto object-contain"
@@ -1959,11 +1960,11 @@ const WhyAmlan = () => {
                       className="flex items-center gap-6 py-5 border-b border-gray-200 hover:bg-red-50/50 transition-all duration-300 px-4 rounded-lg group"
                     >
                       <div className="w-12 h-12 bg-white flex items-center justify-center group-hover:scale-110 transition-transform flex-shrink-0 overflow-hidden rounded">
-                        {i === 0 && <img src="/images/Social welfare-focused initiative.png" alt="Social welfare" className="w-full h-full object-cover" />}
-                        {i === 1 && <img src="/images/low inveztment.png" alt="Low investment" className="w-full h-full object-cover" />}
-                        {i === 2 && <img src="/images/complete support.png" alt="Complete support" className="w-full h-full object-cover" />}
-                        {i === 3 && <img src="/images/modern machinery.png" alt="Modern machinery" className="w-full h-full object-cover" />}
-                        {i === 4 && <img src="/images/good income opportunity.png" alt="Good income opportunity" className="w-full h-full object-cover" />}
+                        {i === 0 && <img loading="lazy" src="/images/Social welfare-focused initiative.png" alt="Social welfare" className="w-full h-full object-cover" />}
+                        {i === 1 && <img loading="lazy" src="/images/low inveztment.png" alt="Low investment" className="w-full h-full object-cover" />}
+                        {i === 2 && <img loading="lazy" src="/images/complete support.png" alt="Complete support" className="w-full h-full object-cover" />}
+                        {i === 3 && <img loading="lazy" src="/images/modern machinery.png" alt="Modern machinery" className="w-full h-full object-cover" />}
+                        {i === 4 && <img loading="lazy" src="/images/good income opportunity.png" alt="Good income opportunity" className="w-full h-full object-cover" />}
                       </div>
                       <p className="text-gray-800 font-semibold text-lg flex-1" style={{ fontFamily: "'Montserrat', sans-serif" }}>
                         {item.text}
@@ -1978,7 +1979,7 @@ const WhyAmlan = () => {
                 <div className="relative w-[400px] h-[500px] md:w-[450px] md:h-[550px]">
                   {/* First Image - Top */}
                   <div className="absolute top-0 right-0 group">
-                    <img
+                    <img loading="lazy"
                       src="/images/west bengal peoples.jpeg"
                       alt="West Bengal Peoples"
                       className="w-56 h-56 md:w-64 md:h-64 lg:w-72 lg:h-72 object-cover rounded-full shadow-2xl border-8 border-white group-hover:scale-105 transition-transform duration-300 relative z-10"
@@ -1989,7 +1990,7 @@ const WhyAmlan = () => {
 
                   {/* Second Image - Bottom (Overlapping) */}
                   <div className="absolute bottom-0 left-0 group">
-                    <img
+                    <img loading="lazy"
                       src="/images/kovil page.jpeg"
                       alt="Victoria Memorial"
                       className="w-56 h-56 md:w-64 md:h-64 lg:w-72 lg:h-72 object-cover rounded-full shadow-2xl border-8 border-white group-hover:scale-105 transition-transform duration-300 relative z-10"
@@ -2207,35 +2208,35 @@ const WhoCanJoin = () => {
             {categories.map((item, i) => (
               <div key={i} className="who-card">
                 {i === 0 ? (
-                  <img
+                  <img loading="lazy"
                     src="/images/dhobi.jpeg"
                     alt="Traditional dhobi families"
                     className="who-image"
                     style={{ objectFit: 'cover', objectPosition: 'center top' }}
                   />
                 ) : i === 1 ? (
-                  <img
+                  <img loading="lazy"
                     src="/images/Cooking up some love in my favorite corner of the house!.jpg"
                     alt="Women / Homemakers"
                     className="who-image"
                     style={{ objectFit: 'cover', objectPosition: 'center top' }}
                   />
                 ) : i === 2 ? (
-                  <img
+                  <img loading="lazy"
                     src="/images/Serva Dharma Ashram Trust India help sick, physical challenged people_.jpg"
                     alt="Differently-abled individuals"
                     className="who-image"
                     style={{ objectFit: 'cover', objectPosition: 'center top' }}
                   />
                 ) : i === 3 ? (
-                  <img
+                  <img loading="lazy"
                     src="/images/Sahaj ties up with Techno India to skill 1 lakh rural youth.jpg"
                     alt="Unemployed youth"
                     className="who-image"
                     style={{ objectFit: 'cover', objectPosition: 'center center' }}
                   />
                 ) : i === 4 ? (
-                  <img
+                  <img loading="lazy"
                     src="/images/A Guide to Starting a Small Business in Mexico as an American Entrepreneur.jpg"
                     alt="Aspiring small business owners"
                     className="who-image"
@@ -2263,21 +2264,21 @@ const WhoCanJoin = () => {
   );
 };
 
-const Franchise = () => {
+const Business = () => {
   const { t } = useLanguage();
-  const franchiseItems = [
-    { text: t.franchise.item1, icon: CircleDot },
-    { text: t.franchise.item2, icon: Home },
-    { text: t.franchise.item3, icon: Star },
-    { text: t.franchise.item4, icon: Wrench },
-    { text: t.franchise.item5, icon: GraduationCap },
-    { text: t.franchise.item6, icon: Sparkles },
-    { text: t.franchise.item7, icon: Monitor },
-    { text: t.franchise.item8, icon: RefreshCw }
+  const businessItems = [
+    { text: t.business.item1, icon: CircleDot },
+    { text: t.business.item2, icon: Home },
+    { text: t.business.item3, icon: Star },
+    { text: t.business.item4, icon: Wrench },
+    { text: t.business.item5, icon: GraduationCap },
+    { text: t.business.item6, icon: Sparkles },
+    { text: t.business.item7, icon: Monitor },
+    { text: t.business.item8, icon: RefreshCw }
   ];
 
   return (
-    <section id="franchise" className="py-20 relative overflow-hidden z-10" style={{
+    <section id="business" className="py-20 relative overflow-hidden z-10" style={{
       background: '#ffffff',
       backgroundImage: 'url("/images/West Bengal state map, administrative division of India_ Vector illustration_.jpg")',
       backgroundSize: 'contain',
@@ -2297,14 +2298,14 @@ const Franchise = () => {
         <RevealOnScroll>
           <div className="text-center mb-16">
             <p className="text-[#c62222] text-3xl md:text-4xl font-bold max-w-3xl mx-auto leading-relaxed">
-              {t.franchise.subtitle}
+              {t.business.subtitle}
             </p>
           </div>
         </RevealOnScroll>
 
         <RevealOnScroll delay={200}>
           <div className="max-w-3xl mx-auto">
-            {franchiseItems.map((item, i) => (
+            {businessItems.map((item, i) => (
               <div
                 key={i}
                 className="flex items-center gap-6 py-6 border-b border-gray-200 hover:bg-blue-50/50 transition-all duration-300 px-6 rounded-lg group"
@@ -2435,7 +2436,7 @@ const Contact = () => {
             <div className="lg:col-span-2 bg-slate-50 p-12 text-slate-900 flex flex-col justify-between relative overflow-hidden border-r border-slate-100">
               {/* Background Image Layer */}
               <div className="absolute inset-0 opacity-20">
-                <img
+                <img loading="lazy"
                   src="/images/LG 10 kg dryer.png"
                   alt="Background image showing laundry equipment setup"
                   className="w-full h-full object-cover"
@@ -2563,7 +2564,7 @@ const Footer = () => {
   const quickLinks = [
     { name: t.nav.home, href: '#home' },
     { name: t.nav.about, href: '#about' },
-    { name: t.nav.franchise, href: '#franchise' },
+    { name: t.nav.business, href: '#business' },
     { name: t.nav.equipment, href: '#equipment' },
     { name: t.nav.training, href: '#training' },
     { name: t.nav.whoCanJoin, href: '#who-can-join' },
@@ -2578,7 +2579,7 @@ const Footer = () => {
           {/* Column 1: Logo and Tagline */}
           <div className="flex flex-col space-y-4">
             <a href="#home" className="inline-block">
-              <img
+              <img loading="lazy"
                 src="/images/The amlan logo transparent.png"
                 alt="The Amlan Laundry Logo"
                 className="h-16 w-auto object-contain"
@@ -2679,20 +2680,21 @@ export default function App() {
       <LanguageProvider>
         <div className="antialiased text-slate-900 bg-white selection:bg-[#A50034] selection:text-white relative">
           <GlobalStyles />
+          <SEO />
           <Navbar />
-          <div className="pt-20">
+          <main className="pt-20">
             <ScrollProgress />
             <Hero />
             <WhoCanJoin />
-            <Franchise />
+            <Business />
             <WhyAmlan />
             <Training />
             <CSRSupport />
             <About />
             <Vision />
             <Contact />
-            <Footer />
-          </div>
+          </main>
+          <Footer />
         </div>
       </LanguageProvider>
     </ErrorBoundary>

@@ -6,7 +6,7 @@ This document serves as a complete machine-readable specification and knowledge 
 
 ## 1. Brand Profile & Mission
 - **Brand Name**: The Amlan Laundry
-- **Business Type**: Premium Laundromat Franchise & Social Welfare Livelihood Program
+- **Business Type**: Premium Laundromat Business & Social Welfare Livelihood Program
 - **Operating Model**: Self-Income Generating Program (SIGP)
 - **Primary Goal**: Modernizing traditional fabric care techniques, empowering local communities, creating sustainable livelihoods, and encouraging organized entrepreneurship.
 - **Geographic Target**: Kolkata, West Bengal, India.
@@ -25,8 +25,8 @@ This document serves as a complete machine-readable specification and knowledge 
 
 ---
 
-## 3. The Franchise Package (What is Provided)
-Franchise candidates receive a complete setup designed to eliminate the risks of starting a business. It includes:
+## 3. The Business Package (What is Provided)
+Business candidates receive a complete setup designed to eliminate the risks of starting a business. It includes:
 - **Complete Business Setup**: Comprehensive startup support to get the store fully operational.
 - **Store Design**: Custom interior layouts designed specifically for workflow efficiency and client appeal.
 - **Branding name and identity**: Operating under "The Amlan Laundry" brand.
@@ -64,7 +64,7 @@ The program is accessible to everyone. No prior business or technical experience
 - **Women & Homemakers**: Creating home-local income streams with flexible operating structures.
 - **Differently-Abled Individuals**: Equal access opportunities supported by simplified operating consoles.
 - **Unemployed Youth**: Entry point to local entrepreneurship with minimal capital risks.
-- **Aspiring Small Business Owners**: A low-capital franchise model with high return potential.
+- **Aspiring Small Business Owners**: A low-capital business model with high return potential.
 
 ---
 
