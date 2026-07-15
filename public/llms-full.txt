@@ -19,9 +19,9 @@ This document serves as a complete machine-readable specification and knowledge 
 - **Email Contact**: contact@theamlanlaundry.com
 - **Website URL**: https://www.theamlanlaundry.com/
 - **Social Presence**:
-  - Facebook: https://www.facebook.com/profile.php?id=61587104255575
-  - Instagram: https://www.instagram.com/the_amlan_laundry/
-  - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
+ - Facebook: https://www.facebook.com/profile.php?id=61587104255575
+ - Instagram: https://www.instagram.com/the_amlan_laundry/
+ - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
 
 ---
 

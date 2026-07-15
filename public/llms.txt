@@ -1,6 +1,6 @@
 # The Amlan Laundry
 
-> A transformative, low-investment laundry business and Self-Income Generating Program (SIGP) in West Bengal, India.
+> A transformative, laundry business and Self-Income Generating Program (SIGP) in West Bengal, India.
 
 See also:
 - [Full Business Details & Copy Brief](/llms-full.txt) - Comprehensive structured dataset for detailed AI ingestion.
@@ -15,13 +15,13 @@ The Amlan Laundry is committed to strengthening local economies, modernizing the
 - **Email**: contact@theamlanlaundry.com
 - **Website**: https://www.theamlanlaundry.com/
 - **Social Media**:
-  - Facebook: https://www.facebook.com/profile.php?id=61587104255575
-  - Instagram: https://www.instagram.com/the_amlan_laundry/
-  - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
+ - Facebook: https://www.facebook.com/profile.php?id=61587104255575
+ - Instagram: https://www.instagram.com/the_amlan_laundry/
+ - LinkedIn: https://www.linkedin.com/company/the-amlan-laundry
 
 ## Business Model
 
-The Amlan Laundry offers a low-investment, high-return business setup. We provide:
+The Amlan Laundry offers a high-return business setup. We provide:
 - Complete business setup
 - Store design
 - Branding name and identity
@@ -55,7 +55,7 @@ No prior experience is required to join the program. We welcome:
 - **Women / Homemakers**: Flexible hours fitting family responsibilities to achieve financial independence.
 - **Differently-abled individuals**: Equal opportunities provided with specialized training and accessible equipment.
 - **Unemployed youth**: Starting an entrepreneurial journey with complete support and valuable skill sets.
-- **Aspiring small business owners**: Low-investment business opportunity with ongoing mentorship.
+- **Aspiring small business owners**: business opportunity with ongoing mentorship.
 
 ## CSR & Government Partnerships
 
